@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "Basic Node JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-js",
+    "learning"
+  ],
+  "author": "Ankit Raj",
+  "license": "ISC"
+}
